@@ -1,9 +1,12 @@
-# nlp_project
+# nlp_project for Resolvit
 Code for Evaluation
-intall = Requiere python 3.5.0 en 32 bits
-intall = NLTK version 3.2.5
 
-run `python text_analysis.py`
+To run is neccesary
+* intall python 3.5.0 en 32 bits
+* intall NLTK version 3.2.5 (yo can install by using command pip install -U nltk)
+
+Run
+ + run `python text_analysis.py`
 
 Expected output:
 
@@ -19,8 +22,3 @@ Expected output:
     ]
 }
 ```
-
-* uuu
-* nnn
-
-`ggggg`
